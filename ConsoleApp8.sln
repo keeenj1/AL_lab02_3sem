@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp8", "ConsoleApp8.csproj", "{12309EFA-750F-4B06-AE89-BA62A6338117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp9", "..\ConsoleApp9\ConsoleApp9.csproj", "{F9C43CC5-9480-4D95-85F0-E2BD683048F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp10", "..\ConsoleApp10\ConsoleApp10.csproj", "{516BD5B0-5D7E-48D5-BF11-D72AD2F609FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12309EFA-750F-4B06-AE89-BA62A6338117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12309EFA-750F-4B06-AE89-BA62A6338117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12309EFA-750F-4B06-AE89-BA62A6338117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12309EFA-750F-4B06-AE89-BA62A6338117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C43CC5-9480-4D95-85F0-E2BD683048F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C43CC5-9480-4D95-85F0-E2BD683048F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C43CC5-9480-4D95-85F0-E2BD683048F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C43CC5-9480-4D95-85F0-E2BD683048F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516BD5B0-5D7E-48D5-BF11-D72AD2F609FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516BD5B0-5D7E-48D5-BF11-D72AD2F609FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516BD5B0-5D7E-48D5-BF11-D72AD2F609FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516BD5B0-5D7E-48D5-BF11-D72AD2F609FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C66510-7D48-41B8-BF71-2946A5A5BCA6}
+	EndGlobalSection
+EndGlobal
